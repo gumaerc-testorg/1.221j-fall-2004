@@ -3,8 +3,13 @@ content_type: resource
 description: This resource talks about measuring origin-destination service, schedule
   adherence, empty freight car distribution, competition and cooperation and types
   of mergers and services.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-221j-transportation-systems-fall-2004/2708c7d79ae96d9942aaa0f07411f7bd_trans_sys_chap18.pdf
+file: /media/courses/1-221j-transportation-systems-fall-2004/2708c7d79ae96d9942aaa0f07411f7bd_trans_sys_chap18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap18.pdf
 uid: 2708c7d7-9ae9-6d99-42aa-a0f07411f7bd

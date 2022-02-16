@@ -6,8 +6,13 @@ description: 'This resource talks about the following:  Differences between Trav
   --The Urban Transportation Planning Process, Real-Time Network Control --Some Research
   Ideas, Traffic Light Synchronization, Other Transportation Control Measures, and
   Deterministic Queuing.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-221j-transportation-systems-fall-2004/85229e06f9728b4df005cfaec980bb9d_trans_sys_chap21.pdf
+file: /media/courses/1-221j-transportation-systems-fall-2004/85229e06f9728b4df005cfaec980bb9d_trans_sys_chap21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap21.pdf
 uid: 85229e06-f972-8b4d-f005-cfaec980bb9d

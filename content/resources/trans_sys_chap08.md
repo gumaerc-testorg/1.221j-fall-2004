@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource illustrates the elevator example and key points which are
   relevant and fundamental to understanding transportation systems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-221j-transportation-systems-fall-2004/84ba194f350e0d9d07b621f08d9be277_trans_sys_chap08.pdf
+file: /media/courses/1-221j-transportation-systems-fall-2004/84ba194f350e0d9d07b621f08d9be277_trans_sys_chap08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap08.pdf
 uid: 84ba194f-350e-0d9d-07b6-21f08d9be277
