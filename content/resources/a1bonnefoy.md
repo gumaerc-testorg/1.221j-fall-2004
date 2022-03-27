@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9545726d-742a-aaa7-f80c-ccce3c609d28
 resourcetype: Document
 title: a1bonnefoy.pdf
 uid: 57481a94-5c07-f047-5ca8-600c6f27d517

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b81e0cfa-368c-050a-30d0-2502b8824c8b
 resourcetype: Document
 title: fa04_lex7fwd.pdf
 uid: 26b3999b-dd0b-73d4-eb04-0f3366dff7e1

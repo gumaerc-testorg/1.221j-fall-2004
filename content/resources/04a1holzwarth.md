@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9545726d-742a-aaa7-f80c-ccce3c609d28
 resourcetype: Document
 title: 04a1holzwarth.pdf
 uid: 5fb2bb95-b15a-76e7-1a95-267fa07eb07e

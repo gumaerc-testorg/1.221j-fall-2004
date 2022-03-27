@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9545726d-742a-aaa7-f80c-ccce3c609d28
 resourcetype: Document
 title: f02_asst2intro.pdf
 uid: 8674ccd6-42ff-c7e5-ccd4-f2c5869fcf34
