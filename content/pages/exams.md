@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Exams from the past four years are presented in this section.  All exams
+  are open book and open notes.  Calculators are allowed, but not laptops.  Reading
+  the entire exam before starting is critical, so as to allow proper planning of your
+  time.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -27,7 +31,7 @@ exams
 2004
 {{< tdclose >}}
 {{< tdopen >}}
-Final Exam ([PDF]({{< baseurl >}}/resources/04final))
+Final Exam ({{% resource_link 7f991483-888d-bd3d-7ba3-b89622bcffb8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +40,7 @@ Final Exam ([PDF]({{< baseurl >}}/resources/04final))
 2003
 {{< tdclose >}}
 {{< tdopen >}}
-Final Exam ([PDF]({{< baseurl >}}/resources/03final))
+Final Exam ({{% resource_link f7ab3a4b-217c-6d67-dc6d-b41bb5a7168b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +49,7 @@ Final Exam ([PDF]({{< baseurl >}}/resources/03final))
 2002
 {{< tdclose >}}
 {{< tdopen >}}
-Final Exam ([PDF]({{< baseurl >}}/resources/f02_final_exam))
+Final Exam ({{% resource_link 6c541c7b-e22d-dcaf-f95b-32575a47b97f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Final Exam ([PDF]({{< baseurl >}}/resources/f02_final_exam))
 2001
 {{< tdclose >}}
 {{< tdopen >}}
-Final Exam ([PDF]({{< baseurl >}}/resources/f01_final_exam))
+Final Exam ({{% resource_link 3f403684-977d-465e-bc58-299083d70665 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Reading material for this subject consists of three elements: "Introduction
+  to Transportation Systems," text by Joseph M. Sussman, a reader, and various handouts
+  given in class.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

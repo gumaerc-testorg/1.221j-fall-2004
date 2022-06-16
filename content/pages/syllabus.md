@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains course description and Academic  Honesty Policy
+  for 1.221J / 11.527J / ESD.201J.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -47,12 +49,12 @@ We introduce quantitative modeling ideas and various techniques and philosophies
 
 While conducted as a graduate subject, motivated undergraduates interested in transportation and a broad perspective on large-scale systems are welcome. CEE undergraduates can use 1.221J / 11.527J / ESD.201J as a subject in a transportation concentration, satisfying the SB requirement in Course I.
 
-A schedule of lectures is available in the [calendar]({{< baseurl >}}/pages/calendar) section.
+A schedule of lectures is available in the {{% resource_link 20826ad0-5d44-7c3b-a57c-48449eae3247 "calendar" %}} section.
 
 Academic Honesty Policy for 1.221J / 11.527J / ESD.201J
 -------------------------------------------------------
 
-The Department of Civil and Environmental Engineering adheres to the strictest standards of academic honesty. An important aspect of achieving these standards is to be sure that students are aware of expectations of faculty as regards academic honesty. This statement clarifies the faculty's expectations in 1.221J / 11.527J / ESD.201J. See the sections on [assignments]({{< baseurl >}}/pages/assignments) and [exams]({{< baseurl >}}/pages/exams) for further expectations germane to this course.
+The Department of Civil and Environmental Engineering adheres to the strictest standards of academic honesty. An important aspect of achieving these standards is to be sure that students are aware of expectations of faculty as regards academic honesty. This statement clarifies the faculty's expectations in 1.221J / 11.527J / ESD.201J. See the sections on {{% resource_link 9545726d-742a-aaa7-f80c-ccce3c609d28 "assignments" %}} and {{% resource_link abc3f042-44c1-9bf1-7275-49bf5c5e43a2 "exams" %}} for further expectations germane to this course.
 
 If you have any questions about how these policies relate to a specific situation, you should speak to the Professor or TA for clarification.
 
