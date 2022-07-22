@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section gives a brief purpose of the assignments for the course
+  and also lists those assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9545726d-742a-aaa7-f80c-ccce3c609d28
 ---
@@ -32,33 +37,21 @@ student examples
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/04assn1))
+Assignment 1 ({{% resource_link eb5ebc9c-76f0-10fb-686e-06675c7754f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Philippe Bonnefoy ([PDF]({{< baseurl >}}/resources/a1bonnefoy))  
+Philippe Bonnefoy ({{% resource_link 57481a94-5c07-f047-5ca8-600c6f27d517 "PDF" %}})  
   
-Rebecca Fearing ([PDF]({{< baseurl >}}/resources/a1fearing))
+Rebecca Fearing ({{% resource_link c43531ad-6c0e-57a3-10b1-0077472d98f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2A ([PDF]({{< baseurl >}}/resources/04assn2a))
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Assignment 2B ([PDF]({{< baseurl >}}/resources/04assn2b))
+Assignment 2A ({{% resource_link 52181ac5-4825-a870-080b-49594638863b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -70,12 +63,24 @@ Assignment 2B ([PDF]({{< baseurl >}}/resources/04assn2b))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/04assn3))
+Assignment 2B ({{% resource_link 529c82dc-6f31-e0a7-0513-80ff982c6822 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-3A Solutions ([XLS]({{< baseurl >}}/resources/04a_3a_sols))  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ({{% resource_link a476eddb-c723-b72e-d5bc-faa32f90039c "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+3A Solutions ({{% resource_link bab06594-4944-5c63-5e53-897b255b69af "XLS" %}})  
   
-3B Solutions ([XLS]({{< baseurl >}}/resources/04a_3b_sols))
+3B Solutions ({{% resource_link 3b0bbf29-2683-0799-0a72-9c4a98320a9a "XLS" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -90,7 +95,7 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/04assn3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/03assn3))
+Assignment 3 ({{% resource_link 2cea4115-ad66-43d0-53c1-cf55e8a640e6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -108,7 +113,7 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/03assn3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/f02_asst1))
+Assignment 1 ({{% resource_link 4c399da1-c0d3-53b6-777f-0c4222672b7c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -120,7 +125,7 @@ Assignment 1 ([PDF]({{< baseurl >}}/resources/f02_asst1))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2: Introduction ([PDF]({{< baseurl >}}/resources/f02_asst2intro))
+Assignment 2: Introduction ({{% resource_link 8674ccd6-42ff-c7e5-ccd4-f2c5869fcf34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -132,7 +137,7 @@ Assignment 2: Introduction ([PDF]({{< baseurl >}}/resources/f02_asst2intro))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2A ([PDF]({{< baseurl >}}/resources/f02_asst2a))
+Assignment 2A ({{% resource_link 4d314c07-bf85-0393-650c-20cb96d48531 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -144,7 +149,7 @@ Assignment 2A ([PDF]({{< baseurl >}}/resources/f02_asst2a))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2B ([PDF]({{< baseurl >}}/resources/f02_asst2b))
+Assignment 2B ({{% resource_link af58f1f4-457b-1ba1-99c4-121cc4e46360 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -162,7 +167,7 @@ Assignment 2B ([PDF]({{< baseurl >}}/resources/f02_asst2b))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/f01_asst3))
+Assignment 3 ({{% resource_link ce45bd29-bf54-f855-8231-51cb4a1b64de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -180,7 +185,7 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/f01_asst3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/f00_asst3))
+Assignment 3 ({{% resource_link dc6cdab6-2493-fc57-640f-3d33e04f7675 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
