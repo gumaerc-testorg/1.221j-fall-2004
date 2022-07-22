@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/b09da1870fcb3f6b240f30bc5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fa04_lecture1.pdf
 uid: b09da187-0fcb-3f6b-240f-30bc532ec2eb
 ---
 This resource talks about transportation system characterization, phases, mode of analysis, and some critical issues.
-

@@ -5,6 +5,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/14f2e669f637a4d704dec7b21
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fa04_lex4.pdf
 uid: 14f2e669-f637-a4d7-04de-c7b2148e56d8
 ---
 This resource talks about multiple issues in transportation.
-

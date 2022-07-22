@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/8815018951efc370e3cda2048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: trans_sys_chap20.pdf
 uid: 88150189-51ef-c370-e3cd-a204819c1dd8
 ---
 This resource talks about ocean shipping; the linear trade, operation and decisions. It also discusses international trade patterns and summary.
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_shinkansen_2.jpg
 uid: 86a058c4-ca64-1832-1796-ce3168031bd8
 ---
 An East Japan Railway Company Shinkansen high speed train photographed by the instructor.  (Photo by Prof. Joseph Sussman.)
-

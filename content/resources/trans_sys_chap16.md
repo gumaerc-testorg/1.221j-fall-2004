@@ -5,6 +5,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/7bf79bedca98ba8f799b89845
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: trans_sys_chap16.pdf
 uid: 7bf79bed-ca98-ba8f-799b-8984588919a0
 ---
 This resource discusses a more subtle view of costs.
-

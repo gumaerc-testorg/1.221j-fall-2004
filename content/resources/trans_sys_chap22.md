@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/81b950db537e4091ed347905b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: trans_sys_chap22.pdf
 uid: 81b950db-537e-4091-ed34-7905bf70a3a1
 ---
 We first discuss the dominant traveler mode, automobiles, and then generalize to LOS variables for travelers.
-

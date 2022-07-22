@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/605c2418c9a96febcd0884b59
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fa04_lectures2_3.pdf
 uid: 605c2418-c9a9-6feb-cd08-84b59035f6ec
 ---
 This resource talks about internal and external components of a Transportation System.
-

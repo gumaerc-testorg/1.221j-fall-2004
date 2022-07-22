@@ -8,6 +8,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/529c82dc6f31e0a7051380ff9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 529c82dc-6f31-e0a7-0513-80ff982c6822
 ---
 In this assignment, you will write a paper which relates these key points to a
 specific transportation concept.
-

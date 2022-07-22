@@ -5,6 +5,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/7765854289606efc2f130c42f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: trans_sys_chap27.pdf
 uid: 77658542-8960-6efc-2f13-0c42fb833da6
 ---
 This resource talks about deterministic queuing.
-

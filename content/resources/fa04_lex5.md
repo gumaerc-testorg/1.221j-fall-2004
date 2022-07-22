@@ -5,6 +5,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/fe87429f976cad4f3569fd793
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fa04_lex5.pdf
 uid: fe87429f-976c-ad4f-3569-fd7931a9448c
 ---
 This resource illustrates an elevator example.
-

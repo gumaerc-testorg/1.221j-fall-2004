@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/c2436e2207d844d65327502ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: trans_sys_chap25.pdf
 uid: c2436e22-07d8-44d6-5327-502caac43fd4
 ---
 This resource talks about networks, nodes, the urban transportation planning process and assignment/system-equilibrium.
-

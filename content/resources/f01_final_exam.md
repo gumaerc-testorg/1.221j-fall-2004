@@ -5,6 +5,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/3f403684977d465ebc5829908
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: f01_final_exam.pdf
 uid: 3f403684-977d-465e-bc58-299083d70665
 ---
 This resource inludes two questions on Transportation Systems.
-

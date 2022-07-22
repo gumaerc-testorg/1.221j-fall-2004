@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/5fb2bb95b15a76e71a95267fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 04a1holzwarth.pdf
 uid: 5fb2bb95-b15a-76e7-1a95-267fa07eb07e
 ---
 This resource talks about 'Automated vehicles as an antidote for critical issues facing our urban transportation systems.'
-
