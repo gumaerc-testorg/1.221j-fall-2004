@@ -4,6 +4,7 @@ description: The main objective of this assignment is to help you prepare for Le
   4. Your assignment is to read the article The Boston Globe, September 2002, "Acela
   troubles seen as pattern for Amtrak".
 file: /courses/1-221j-transportation-systems-fall-2004/4d314c07bf850393650c20cb96d48531_f02_asst2a.pdf
+file_size: 82761
 file_type: application/pdf
 learning_resource_types:
 - Assignments

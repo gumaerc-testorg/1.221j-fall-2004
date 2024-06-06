@@ -4,6 +4,7 @@ description: This resource gives an introduction on 'The Port of Long Beach'. It
   about general transportation concepts, important aspects of the system, improvement
   opportunities and conclusion.
 file: /courses/1-221j-transportation-systems-fall-2004/c43531ad6c0e57a310b10077472d98f2_a1fearing.pdf
+file_size: 226377
 file_type: application/pdf
 learning_resource_types:
 - Assignments

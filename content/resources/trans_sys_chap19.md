@@ -3,6 +3,7 @@ content_type: resource
 description: This resource talks about trucking, its cost structure, operation, load
   screeening, intermodal partnership and new trucking technologies.
 file: /courses/1-221j-transportation-systems-fall-2004/3114aff512b2fd3ebe2f62d872c55873_trans_sys_chap19.pdf
+file_size: 87562
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
