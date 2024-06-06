@@ -4,6 +4,7 @@ description: This resource talks about vehicles and technology, modes of operati
   infrastructure, issues about current small aircraft transportation systems, and
   recent evolution in small aircraft transportation system.
 file: /courses/1-221j-transportation-systems-fall-2004/57481a945c07f0475ca8600c6f27d517_a1bonnefoy.pdf
+file_size: 371170
 file_type: application/pdf
 learning_resource_types:
 - Assignments

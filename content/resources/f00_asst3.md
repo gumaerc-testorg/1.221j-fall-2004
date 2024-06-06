@@ -3,6 +3,7 @@ content_type: resource
 description: In this assignment, you will look at the 30 key points in the context
   of a particular transportation system.
 file: /courses/1-221j-transportation-systems-fall-2004/dc6cdab62493fc57640f3d33e04f7675_f00_asst3.pdf
+file_size: 75595
 file_type: application/pdf
 learning_resource_types:
 - Assignments

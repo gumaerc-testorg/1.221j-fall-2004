@@ -6,6 +6,7 @@ description: This resource inludes a question which deals with a simplified high
   Pushing Drivers Toward Mass Transit?, by Randy Kennedy, The New York Times, March
   26, 2002) and respond to the questions.
 file: /courses/1-221j-transportation-systems-fall-2004/6c541c7be22ddcaff95b32575a47b97f_f02_final_exam.pdf
+file_size: 121123
 file_type: application/pdf
 learning_resource_types:
 - Exams
