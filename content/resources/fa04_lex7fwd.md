@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses pipeline inventory, stock-out cost, just in time
   systems, and  total logistics cost (TLC).
 file: /courses/1-221j-transportation-systems-fall-2004/26b3999bdd0b73d4eb040f3366dff7e1_fa04_lex7fwd.pdf
+file_size: 240253
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

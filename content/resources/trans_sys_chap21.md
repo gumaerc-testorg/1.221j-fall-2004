@@ -7,6 +7,7 @@ description: 'This resource talks about the following:  Differences between Trav
   Ideas, Traffic Light Synchronization, Other Transportation Control Measures, and
   Deterministic Queuing.'
 file: /courses/1-221j-transportation-systems-fall-2004/85229e06f9728b4df005cfaec980bb9d_trans_sys_chap21.pdf
+file_size: 111510
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
