@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about hierarchies of models, issues, why we model
   and new developments in models and frameworks.
-file: /courses/1-221j-transportation-systems-fall-2004/17c4254ff0a70544d460d0c74d053979_trans_sys_chap11.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/17c4254ff0a70544d460d0c74d053979_trans_sys_chap11.pdf
 file_size: 112783
 file_type: application/pdf
 learning_resource_types:

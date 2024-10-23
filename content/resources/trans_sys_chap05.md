@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource tals about node and link network, its capacity, and travel
   time.
-file: /courses/1-221j-transportation-systems-fall-2004/daced7fea62fc7cef9e6bb7cc6df1a94_trans_sys_chap05.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/daced7fea62fc7cef9e6bb7cc6df1a94_trans_sys_chap05.pdf
 file_size: 109936
 file_type: application/pdf
 learning_resource_types:

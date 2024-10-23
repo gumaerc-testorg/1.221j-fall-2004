@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about terminals, LOS and routing over the rail network,
   and P-MAKE analysis.
-file: /courses/1-221j-transportation-systems-fall-2004/b9264b4b5ed1f6573af6ba42728957c9_trans_sys_chap15.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/b9264b4b5ed1f6573af6ba42728957c9_trans_sys_chap15.pdf
 file_size: 127153
 file_type: application/pdf
 learning_resource_types:
