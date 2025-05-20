@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource talks about observations in technology and operations:
   US and other countries.'
-file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/cc5ed062dbe999932c16969ea3f9f9bf_fa04_lex9.pdf
+file: /courses/1-221j-transportation-systems-fall-2004/cc5ed062dbe999932c16969ea3f9f9bf_fa04_lex9.pdf
 file_size: 101042
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: 'In this assignment, you will write a paper which relates these key
   to a
 
   specific transportation concept.'
-file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/529c82dc6f31e0a7051380ff982c6822_04assn2b.pdf
+file: /courses/1-221j-transportation-systems-fall-2004/529c82dc6f31e0a7051380ff982c6822_04assn2b.pdf
 file_size: 60354
 file_type: application/pdf
 learning_resource_types:
