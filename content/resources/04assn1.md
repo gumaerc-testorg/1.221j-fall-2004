@@ -3,7 +3,7 @@ content_type: resource
 description: In this assignment, you will write a paper that relates important general
   transportation system concepts to a particular transportation system or situation
   of your choice.
-file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/eb5ebc9c76f010fb686e06675c7754f3_04assn1.pdf
+file: /courses/1-221j-transportation-systems-fall-2004/eb5ebc9c76f010fb686e06675c7754f3_04assn1.pdf
 file_size: 56581
 file_type: application/pdf
 learning_resource_types:

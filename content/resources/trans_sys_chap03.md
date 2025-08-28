@@ -3,7 +3,7 @@ content_type: resource
 description: This resource talks about external components of the transportation system
   i.e. government, competition, financial community, supply industry, stakeholders
   and customer
-file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/d81322ee1d9ed390dc68f60b91a28e17_trans_sys_chap03.pdf
+file: /courses/1-221j-transportation-systems-fall-2004/d81322ee1d9ed390dc68f60b91a28e17_trans_sys_chap03.pdf
 file_size: 78520
 file_type: application/pdf
 learning_resource_types:
