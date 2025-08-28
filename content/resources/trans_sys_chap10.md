@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource talks about: What is our function as transportation professionals?
   A Structure for Transportation System Analysis. It also discusses modeling and it''s
   approaches, and models vs. frameworks.'
-file: /courses/1-221j-transportation-systems-fall-2004/85c6999b30a667b59613fb41621d81e7_trans_sys_chap10.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/85c6999b30a667b59613fb41621d81e7_trans_sys_chap10.pdf
 file_size: 120480
 file_type: application/pdf
 learning_resource_types:
