@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource talks about multiple issues in transportation.
-file: /courses/1-221j-transportation-systems-fall-2004/14f2e669f637a4d704dec7b2148e56d8_fa04_lex4.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/14f2e669f637a4d704dec7b2148e56d8_fa04_lex4.pdf
 file_size: 125227
 file_type: application/pdf
 learning_resource_types:

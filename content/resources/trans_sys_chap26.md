@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about traffic signals and other control measures,
   optimizing traffic light settings and other traffic control ideas.
-file: /courses/1-221j-transportation-systems-fall-2004/9cb7062e6a6541b59571c22837a5ee99_trans_sys_chap26.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/9cb7062e6a6541b59571c22837a5ee99_trans_sys_chap26.pdf
 file_size: 185638
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: These slides cover major ideas from the course, and should be supplemented
   with other materials presented by the instructor.
-file: /courses/1-221j-transportation-systems-fall-2004/e4475a969e2fcb2aab2deb3d900c2009_summary.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/e4475a969e2fcb2aab2deb3d900c2009_summary.pdf
 file_size: 66166
 file_type: application/pdf
 learning_resource_types:
