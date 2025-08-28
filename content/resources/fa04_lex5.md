@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource illustrates an elevator example.
-file: /courses/1-221j-transportation-systems-fall-2004/fe87429f976cad4f3569fd7931a9448c_fa04_lex5.pdf
+file: /ol-ocw-studio-app/courses/1-221j-transportation-systems-fall-2004/fe87429f976cad4f3569fd7931a9448c_fa04_lex5.pdf
 file_size: 231393
 file_type: application/pdf
 learning_resource_types:
