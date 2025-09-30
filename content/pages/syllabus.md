@@ -58,4 +58,4 @@ The Department of Civil and Environmental Engineering adheres to the strictest s
 
 If you have any questions about how these policies relate to a specific situation, you should speak to the Professor or TA for clarification.
 
-MIT's academic honesty policy can be found at the following link: [Policies and Procedures](http://policies-procedures.mit.edu/).
+MIT's academic honesty policy can be found at the following link: {{% resource_link "13ccb52d-1496-4f1c-a24e-cd71816f7682" "Policies and Procedures" %}}.
